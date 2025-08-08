@@ -1,0 +1,15 @@
+Ementa:
+
+* Transações.
+
+* Controle de Concorrência.
+
+* Recuperação de Falhas.
+
+* Orientação a objetos em Banco de Dados.
+
+* Bancos de Dados Distribuídos.
+
+* Segurança em Banco de Dados.
+
+* Tecnologias Emergentes.

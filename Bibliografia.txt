@@ -1,0 +1,11 @@
+Bibliografia:
+
+* Sistemas de Banco de Dados Ed 7 - ELMASRI, Ramez; NAVATHE, Shamkant B.; Pearson Universidades (2019)
+
+* Sistema de Banco de Dados Ed 7 - SILBERSCHATZ, Abraham; KORTH, Henry F.; SUDARSHAN, S.; GENLTC (2020)
+
+* Oracle Essentials, O'Reilly Media Ed 5 -Rick Greenwald, Robert Stackowiak, Jonathan Ster (2013)
+
+
+
+
